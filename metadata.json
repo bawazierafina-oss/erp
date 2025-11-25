@@ -1,0 +1,5 @@
+{
+  "name": "ERP Data Analyzer with AI",
+  "description": "An ERP-style web application that allows users to upload CSV data, view it in a structured table, and use Gemini AI to generate insights and analyses based on the data.",
+  "requestFramePermissions": []
+}
